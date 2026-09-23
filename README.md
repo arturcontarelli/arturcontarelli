@@ -1,4 +1,4 @@
- # Olá, eu sou o Artur 👋
+# Olá, eu sou o Artur 👋
 
 Estudante de Engenharia de Computação na PUC-Campinas.
 
@@ -15,6 +15,7 @@ Estudante de Engenharia de Computação na PUC-Campinas.
 ![Assembly x86](https://img.shields.io/badge/Assembly_x86-F50057?style=for-the-badge&logo=nasm&logoColor=white)
 ![Assembly MIPS](https://img.shields.io/badge/Assembly_MIPS-6E4C13?style=for-the-badge&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-000000?style=for-the-badge&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-ED1C24?style=for-the-badge&logoColor=white)
 
 ## 🛠️ Ferramentas
 
@@ -22,6 +23,10 @@ Estudante de Engenharia de Computação na PUC-Campinas.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![ROS2](https://img.shields.io/badge/ROS2-CE1747?style=for-the-badge&logo=ros&logoColor=white)
 
 ## 🌐 Idiomas
 
@@ -38,5 +43,12 @@ Estudante de Engenharia de Computação na PUC-Campinas.
 
 ## 📫 Contato
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arturcontarelli)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artur.contarelli@gmail.com)
 
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arturcontarelli/arturcontarelli/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arturcontarelli/arturcontarelli/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/arturcontarelli/arturcontarelli/output/github-contribution-grid-snake.svg">
+</picture>
