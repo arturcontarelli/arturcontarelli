@@ -2,7 +2,7 @@
 # hi! i'm artur 
 
 Computer Engineering student at **PUC Campinas**.<br>
-I really enjoy understanding how things work from the ground up.
+I really enjoy understanding how things work.
 
 ### 📚 Currently studying
 
