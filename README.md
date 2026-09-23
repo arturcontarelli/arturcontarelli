@@ -1,8 +1,8 @@
-# Olá, eu sou o Artur 👋
+# oi, eu sou o artur
 
 Estudante de Engenharia de Computação na PUC-Campinas.
 
-## 💻 Linguagens e Tecnologias
+### Tech Stack:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -38,3 +38,8 @@ Estudante de Engenharia de Computação na PUC-Campinas.
 
 gmail: artur.contarelli@gmail.com
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arturcontarelli/arturcontarelli/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arturcontarelli/arturcontarelli/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/arturcontarelli/arturcontarelli/output/github-snake.svg" />
+</picture>
