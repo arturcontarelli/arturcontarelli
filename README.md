@@ -1,10 +1,7 @@
 
 # hi! i'm artur 
 
-Computer Engineering student at **PUC Campinas**.
-
-
-
+Computer Engineering student at **PUC Campinas**.<br>
 I really enjoy understanding how things work from the ground up.
 
 ### 📚 Currently studying
@@ -43,6 +40,7 @@ I really enjoy understanding how things work from the ground up.
 - 🇧🇷 Portuguese (Native)
 - 🇺🇸 English (C1)
 
+<br><br>
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arturcontarelli/arturcontarelli/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
