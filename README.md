@@ -1,18 +1,29 @@
 
 # hi! i'm artur 
 
-Computer Engineering student at PUC Campinas<br>
-I like understanding how things work from the ground up
+Computer Engineering student at **PUC Campinas**.<br>
+I really enjoy understanding how things work from the ground up.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### 📚 Currently studying
 
-**C++**
-**Assembly MIPS**
-- Computer Architecture
-- Computer Networks
-- Formal Languages and Automata Theory
-- C/C++ Programming
+- C++
+- Assembly MIPS
 
 ### 💻 Tech Stack
 
