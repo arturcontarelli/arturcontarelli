@@ -33,17 +33,10 @@ Estudante de Engenharia de Computação na PUC-Campinas.
 - 🇧🇷 Português (Nativo)
 - 🇺🇸 Inglês
 
-## 📌 Projetos
-
-- [Desenvolvimento-Web](https://github.com/arturcontarelli/Desenvolvimento-Web) — Primeiro repositório da aula de Desenvolvimento Web
-- [CalculadoraSimples](https://github.com/arturcontarelli/CalculadoraSimples) — Calculadora simples desenvolvida na aula de Desenvolvimento Web
-- [OSC-Assembly](https://github.com/arturcontarelli/OSC-Assembly) — Projeto em Assembly
-- [Projeto-ALU](https://github.com/arturcontarelli/Projeto-ALU) — ALU desenvolvida na matéria de Projetos de Sistemas Digitais
-- [Sistemas-Digitais](https://github.com/arturcontarelli/Sistemas-Digitais) — Projetos em VHDL
 
 ## 📫 Contato
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artur.contarelli@gmail.com)
+gmail: artur.contarelli@gmail.com
 
 ---
 
