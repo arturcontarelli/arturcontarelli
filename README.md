@@ -1,8 +1,20 @@
-# oi, eu sou o artur
 
-Estudante de Engenharia de Computação na PUC-Campinas.
+# hi! i'm artur 
 
-### Tech Stack:
+Computer Engineering student at PUC Campinas<br>
+I like understanding how things work from the ground up
+
+
+### 📚 Currently studying
+
+**C++**
+**Assembly MIPS**
+- Computer Architecture
+- Computer Networks
+- Formal Languages and Automata Theory
+- C/C++ Programming
+
+### 💻 Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -17,7 +29,7 @@ Estudante de Engenharia de Computação na PUC-Campinas.
 ![VHDL](https://img.shields.io/badge/VHDL-000000?style=for-the-badge&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-ED1C24?style=for-the-badge&logoColor=white)
 
-## 🛠️ Ferramentas
+### 🛠️ Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -28,21 +40,10 @@ Estudante de Engenharia de Computação na PUC-Campinas.
 ![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 ![ROS2](https://img.shields.io/badge/ROS2-CE1747?style=for-the-badge&logo=ros&logoColor=white)
 
-## 🌐 Idiomas
+### 🌐 Spoken Languages
 
-- 🇧🇷 Português (Nativo)
-- 🇺🇸 Inglês
-
-
-## 📫 Contato
-
-gmail: artur.contarelli@gmail.com
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arturcontarelli/arturcontarelli/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arturcontarelli/arturcontarelli/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/arturcontarelli/arturcontarelli/output/github-snake.svg" />
-</picture>
+- 🇧🇷 Portuguese (Native)
+- 🇺🇸 English (C1)
 
 
 <picture data-importer="pacman">
